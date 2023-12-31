@@ -44,7 +44,7 @@
 ![image](https://github.com/HariharanJayavel/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870546/4d7b5a05-0728-4648-843d-aa8298a22315)
 
 ### Name: HARIHARAN J
-### Register Number:23011967
+### Register Number:212223240047
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
